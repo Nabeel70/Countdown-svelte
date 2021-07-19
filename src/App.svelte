@@ -243,7 +243,7 @@
 				date = ''
 				showForm = true
 			}}>
-				Let's Add a new countdown<span uk-icon="icon: arrow-right"></span>
+				ARE YOU READY?<span uk-icon="icon: arrow-right"></span>
 			</button>
 		{/if}
 	</div>
